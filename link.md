@@ -1,2 +1,3 @@
-# A link to the GitHub published site 
-https://streda.github.io/JavaScript-HW-4/
+# A link to the Solution only hosted site
+
+Hosting URL: https://crud-solution-only.web.app
